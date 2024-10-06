@@ -1,0 +1,83 @@
+[
+    {
+      "id": "001",
+      "cover": {
+        "url": "https://images.unsplash.com/photo-1496449903678-68ddcb189a24?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "alt": "Cover image for The Shadows of Tomorrow, showing a futuristic cityscape with dark skies"
+      },
+      "title": "THE SHADOWS OF TOMORROW",
+      "author": "John Doe",
+      "author_img": {
+        "url": "https://static.vecteezy.com/system/resources/thumbnails/028/794/706/small_2x/cartoon-cute-school-boy-photo.jpg",
+        "alt": "Portrait of John Doe, author of The Shadows of Tomorrow"
+      },
+      "posted_date": "2024-08-10",
+      "reading_time": 4,
+      "hashtag": ["#sciencefiction", " #future", " #mystery"]
+    },
+    {
+      "id": "002",
+      "cover": {
+        "url": "https://images.unsplash.com/photo-1512820790803-83ca734da794?q=80&w=1498&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "alt": "Cover image for Whispers in the Rain, featuring a rainy street scene"
+      },
+      "title": "WHISPERS IN THE RAIN",
+      "author": "Emily Stone",
+      "author_img": {
+        "url": "https://static.vecteezy.com/system/resources/thumbnails/028/794/706/small_2x/cartoon-cute-school-boy-photo.jpg",
+        "alt": "Portrait of Emily Stone, author of Whispers in the Rain"
+      },
+      "posted_date": "2024-09-15",
+      "reading_time": 7,
+      "hashtag": ["#romance", " #drama", " #emotions"]
+    },
+    {
+      "id": "003",
+      "cover": {
+        "url": "https://images.unsplash.com/photo-1432821596592-e2c18b78144f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGJsb2clMjBjb3ZlcnxlbnwwfDB8MHx8fDA%3D",
+        "alt": "Cover image for Unveiling the Unknown, showing a misty forest path"
+      },
+      "title": "UNVEILING THE UNKNOWN",
+      "author": "Marcus Wright",
+      "author_img": {
+        "url": "https://static.vecteezy.com/system/resources/thumbnails/028/794/706/small_2x/cartoon-cute-school-boy-photo.jpg",
+        "alt": "Portrait of Marcus Wright, author of Unveiling the Unknown"
+      },
+      "posted_date": "2024-07-20",
+      "reading_time": 5,
+      "hashtag": ["#adventure", " #mystery", " #thriller"]
+    },
+    {
+      "id": "004",
+      "cover": {
+        "url": "https://images.unsplash.com/photo-1432821579285-1b649e5b1ce3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "alt": "Cover image for Echoes of Silence, depicting a foggy forest with a lone figure"
+      },
+      "title": "ECHOES OF SILENCE",
+      "author": "Sarah Lee",
+      "author_img": {
+        "url": "https://static.vecteezy.com/system/resources/thumbnails/028/794/706/small_2x/cartoon-cute-school-boy-photo.jpg",
+        "alt": "Portrait of Sarah Lee, author of Echoes of Silence"
+      },
+      "posted_date": "2024-09-01",
+      "reading_time": 6,
+      "hashtag": ["#psychological", " #suspense", " #drama"]
+    },
+    {
+      "id": "005",
+      "cover": {
+        "url": "https://images.unsplash.com/photo-1499914485622-a88fac536970?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "alt": "Cover image for The Forgotten Island, featuring a remote tropical island"
+      },
+      "title": "THE FORGOTTEN ISLAND",
+      "author": "David Rivers",
+      "author_img": {
+        "url": "https://static.vecteezy.com/system/resources/thumbnails/028/794/706/small_2x/cartoon-cute-school-boy-photo.jpg",
+        "alt": "Portrait of David Rivers, author of The Forgotten Island"
+      },
+      "posted_date": "2024-10-01",
+      "reading_time": 8,
+      "hashtag": ["#adventure", " #mystery", " #island"]
+    }
+  ]
+  
