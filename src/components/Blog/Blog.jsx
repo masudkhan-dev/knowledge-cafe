@@ -2,6 +2,7 @@ import { FaRegBookmark } from "react-icons/fa";
 
 const Blog = ({ blog, handleAddToBookmark, handleReadingTime }) => {
   const {
+    id,
     title,
     cover,
     author_img,
@@ -47,7 +48,7 @@ const Blog = ({ blog, handleAddToBookmark, handleReadingTime }) => {
           <p className="text-sm text-gray-400 my-4">{hashtag}</p>
 
           <button
-            onClick={() => handleReadingTime(reading_time)}
+            onClick={() => handleReadingTime(reading_time, id)}
             className="text-blue-700 underline"
           >
             Mark as read

@@ -14,10 +14,13 @@ function App() {
     setBookmarks(newBookmarks);
   };
 
-  const handleReadingTime = (time) => {
-
+  const handleReadingTime = (time, id) => {
     const newReadingTime = readingTime + time;
     setReadingTime(newReadingTime);
+
+    // remove thr mark as read from bookmark
+    const removeBookmark = bookmarks.filter((bookmarks) => bookmarks.id !== id);
+    setBookmarks(removeBookmark);
   };
 
   return (
